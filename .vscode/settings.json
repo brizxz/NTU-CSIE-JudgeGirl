@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "JG89.C": "cpp"
+    },
+    "git.ignoreLimitWarning": true
+}
